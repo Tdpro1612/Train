@@ -1,0 +1,26 @@
+<annotation>
+	<folder>class 3</folder>
+	<filename>0547.jpg</filename>
+	<path>C:\Users\DELL\Desktop\nguyen slide\class 3\0547.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>361</ymin>
+			<xmax>322</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>
